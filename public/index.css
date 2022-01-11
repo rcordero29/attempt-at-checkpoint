@@ -1,0 +1,22 @@
+* {
+margin: 10px;
+height: 100px;
+width: 500px;
+}
+
+.outline{
+display: flex;}
+.one{
+  border-style: solid;
+  border-width: medium;
+  height:300px ;
+}
+.two{
+  border-style: solid;
+  border-width: medium;
+  height:300px ;
+}
+.three{
+  border-style: solid;
+  border-width: medium;
+}
